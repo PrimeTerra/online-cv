@@ -87,7 +87,7 @@ experiences:
         - Examined US and Australian disability trends to draw conclusions about comparability of long-term care insurance products in these countries 
         - Created and refined models to predict transitions between different disability states 
         
-    - role: Tutor
+    - role: High School Tutor
       time: 01/2021 - 01/2022
       company: Dux College - Sydney
       details: |
@@ -95,38 +95,26 @@ experiences:
         - Managed classes of up to 10 students, refining my leadership and communication skills
         
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of a couple of the notable personal projects I have worked on outside of work
     assignments:
-      - title: Velocity
+      - title: Literary Subscription Service
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A blog where users can post their own stories and view and comment on other user's stories to which they are subscribed"
 
-      - title: DevStudio
+      - title: Chat Messaging Platform
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A messaging platform (like Facebook) that allows users to friend other users, create channels and text chat with other users"
 
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
+extracurriculars:
+    title: Extracurriculars
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of Extracurriculars
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -142,28 +130,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
