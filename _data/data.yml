@@ -57,68 +57,43 @@ career-profile:
       development and data analysis. He has previous experience working as a data 
       analyst, an actuarial research intern and as a technology intern. Being 
       earlier on in his career, Jeremy is seeking to taste a range of disciplines
-      and roles to help carve out his niche in the job market. 
+      and roles to help carve out his niche in the job market.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Actuarial Studies / Computer Science
+      university: The University of New South Wales
+      time: 2020 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Introduction to Actuarial Studies; Accounting 1A; Accounting 1B; 
+        Microeconomics; Macroeconomics;Database Systems Fundamentals; 
+        Data Structures and Algorithms; Object-Oriented Design & Programming 
+        
+        Current WAM = 70 
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technology Intern
+      time: 02/2022 - 08/2022
+      company: Humm Group - Sydney
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Reduced noise in errors logs within HummAU and HummNZ as a part of the maintenance team for these products 
+        - Worked in an agile environment with daily stand-ups 
+        - Facilitated the transition of CRM system for Humm products to Salesforce 
+          
+    - role: Actuarial Researcher
+      time: 11/2021 - 02/2021
+      company: The University of New South Wales - Sydney
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Simulated health and functionality disability in Australia using U.S. data in R  
+        - Examined US and Australian disability trends to draw conclusions about comparability of long-term care insurance products in these countries 
+        - Created and refined models to predict transitions between different disability states 
+        
+    - role: Tutor
+      time: 01/2021 - 01/2022
+      company: Dux College - Sydney
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Delivered mathematics and science content to senior high school students in engaging ways
+        - Managed classes of up to 10 students, refining my leadership and communication skills
+        
 projects:
     title: Projects
     intro: >
