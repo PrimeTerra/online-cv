@@ -60,7 +60,7 @@ education:
         
         Current WAM = 70 
         
-experiences:
+work-experience:
     - role: Technology Intern
       time: 02/2022 - 08/2022
       company: Humm Group - Sydney
@@ -108,7 +108,7 @@ projects:
 
 extracurriculars:
     title: Extracurriculars
-    intro: |
+    intro: >
       List of Extracurriculars
     papers:
       - title: The Art of Computer Programming
