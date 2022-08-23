@@ -102,10 +102,13 @@ projects:
       - title: Literary Subscription Service
         link: "#hook"
         tagline: "A blog where users can post their own stories and view and comment on other user's stories to which they are subscribed"
-
+            - Wrote tests for and tested Django backend 
+            - Utilised agile methodology to delegate tasks and work coherently in a development team 
       - title: Chat Messaging Platform
         link: "#"
         tagline: "A messaging platform (like Facebook) that allows users to friend other users, create channels and text chat with other users"
+            - Worked in a team to create a chat-messaging platform providing users access to simple features like group creation, sending messages and searching messages 
+            - Managed team and took initiative to implement the use of task boards and more frequent stand-ups to improve accountability within team  
 
       - title: Tempo
         link: "#"
